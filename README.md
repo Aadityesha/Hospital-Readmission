@@ -1,6 +1,9 @@
 # Hospital-Readmission
 
-# **Step-by-Step Summary of the Report**
+## **Project Overview**
+This project focuses on predicting **30-day hospital readmissions** for diabetes patients using machine learning models. The goal is to analyze key factors influencing readmissions and develop a predictive system to assist healthcare professionals in reducing hospital readmission rates. The study involves **data preprocessing, feature engineering, model training, evaluation, and selection of the best-performing algorithm**.
+
+---
 
 ## **1. Feature Analysis**
 The dataset was analyzed to understand key attributes and potential biases.
